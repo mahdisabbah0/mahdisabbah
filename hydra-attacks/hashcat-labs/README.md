@@ -20,3 +20,11 @@ This folder contains my practical notes and examples using **Hashcat**, a powerf
 - Understand how hashed passwords can be targeted
 - Explore ethical password cracking methodologies
 - Apply security practices to prevent such vulnerabilities
+
+
+## ✅ Sample Command
+5f4dcc3b5aa765d61d8327deb882cf99
+202cb962ac59075b964b07152d234b70
+
+
+::::hashcat -m 0 -a 0 -o cracked.txt hashes.txt /usr/share/wordlists/rockyou.txt
