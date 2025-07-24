@@ -20,5 +20,5 @@ I'm a Management Information Systems graduate from the Lebanese University, focu
 ---
 
 🌐 *Connect with me:*  
-- LinkedIn: linkedin.com/in/mahdi-sabbah-860b88375 
+- LinkedIn: https://www.linkedin.com/in/mahdi-sabbah-860b88375
 - Instagram profile: https://www.instagram.com/mahdi.mnco?utm_source=ig_web_button_share_sheet&igsh=MXVnejkzamZ1ZThkMw==
