@@ -17,3 +17,19 @@ It includes logs, command outputs, and config snippets from real virtual machine
 - Build comfort with terminal-based system management
 - Learn to secure a basic Linux server
 - Document best practices for system admins and security analysts
+## ⚙️ Commands Used
+
+```bash
+sudo apt update
+sudo apt install ufw
+sudo ufw enable
+sudo ufw allow ssh
+sudo ufw allow 80/tcp
+sudo ufw status verbose
+
+🔒 Outcome
+1-Enabled default deny policy
+
+2-Allowed SSH and HTTP
+
+3-Verified status with detailed output
